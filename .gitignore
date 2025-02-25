@@ -1,0 +1,14 @@
+/.ipynb_checkpoints/
+/.virtual_documents/
+/outputs/
+*.png
+*.jpg
+*.csv
+*.pth
+*.h5
+/models/
+/data/
+__pycache__/
+*.pyc
+*.log
+*.zip
